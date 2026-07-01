@@ -83,12 +83,16 @@ cleaned_netflix_dataset.csv
 
 ## 📁 Repository Structure
 
-```
+```text
 📦 internship
-│
-├── README.md
-├── netflix_titles.ipynb
-└── cleaned_netflix_dataset.csv
+│── README.md
+│── netflix_titles.ipynb
+│── cleaned_netflix_dataset.csv
+└── screenshots
+    ├── dataset_preview.png
+    ├── missing_values.png
+    ├── dataset_info.png
+    └── cleaned_dataset.png
 ```
 
 ---
@@ -111,6 +115,22 @@ cleaned_netflix_dataset.csv
 The dataset was successfully cleaned and prepared for exploratory data analysis and machine learning applications.
 
 ---
+
+
+## 📸 Screenshots
+
+### Dataset Preview
+![Dataset Preview](dataset_preview.png)
+
+### Missing Values
+![Missing Values](missing_values.png)
+
+### Dataset Information
+![Dataset Information](dataset_info.png)
+
+### Cleaned Dataset
+![Cleaned Dataset](cleaned_dataset.png)
+
 
 ## 👨‍💻 Author
 
